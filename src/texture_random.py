@@ -17,7 +17,7 @@ def find_objects(name):
     return objs
 
 
-SCALE = 5  # Scale coefficient for sampling
+SCALE = 10  # Scale coefficient for sampling
 
 
 class TextureHandler(object):
